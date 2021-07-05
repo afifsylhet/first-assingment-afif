@@ -1,0 +1,36 @@
+#42ba96 = success
+#0275d8 = praimary
+body{
+    font-family: font-family: 'Lato', sans-serif;;
+}
+
+span{
+    color: #42ba96;
+}
+.priamry{
+    color: #0275d8;
+}
+
+.first-flex {
+    display: flex;
+}
+.section-1-div {
+    width: 50%;
+    margin: 2%;
+    padding: 2%;
+}
+
+.section-1-div img {
+    width: 95%;
+}
+
+.font-40 {
+    font-size: 40px;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(#42ba96, #0275d8);
+    padding: 4px 12px; 
+    border-radius: 10px;
+}
