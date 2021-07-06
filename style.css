@@ -1,9 +1,8 @@
-#42ba96 = success
-#0275d8 = praimary
 body{
     font-family: font-family: 'Lato', sans-serif;
     margin: 0px;
     padding:0px;
+    font-size: 1.5rem;
 }
 
 .c-success{
@@ -27,7 +26,7 @@ body{
 }
 
 .font-40 {
-    font-size: 40px;
+    font-size: 50px;
     color: #0275d8;
 }
 
@@ -70,8 +69,8 @@ margin-left: 22%;
 }
 
 .cards-img{
-    width: 287px;
-    height: 200px;
+    width: 430px;
+    height: 280px;
     border: 20px;
 }
 .cards-title{
@@ -139,6 +138,8 @@ a img {
 
 .nav-bar{
     text-align: right;
+    padding-top: 20px;
+    padding-right: 30px;
 }
 
 .nav-item {
