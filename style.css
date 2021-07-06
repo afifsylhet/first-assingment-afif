@@ -6,9 +6,7 @@ body{
     padding:0px;
 }
 
-}
-
-span{
+.c-success{
     color: #42ba96;
 }
 .priamry{
@@ -78,4 +76,34 @@ margin-left: 22%;
 }
 .cards-title{
    color: #0275d8; 
+}
+
+.last-flex {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 3% 10% 3% 10%;
+    box-shadow: 10px 10px 15px #0275d8;
+    border-radius: 20px;
+}
+
+.div-align{
+    width: 30%;
+    margin-left: 6%;
+}
+.footer{
+    font-size: 4050 px;
+    color:#0275d8
+}
+
+.footer-div{
+    background-color: 	#616661;
+    padding-top:3%;
+    padding-bottom:3%;
+    text-align: center;
+}
+.footer-div p{
+    color: white;
 }
